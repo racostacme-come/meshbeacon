@@ -25,7 +25,7 @@ include = ["src", "tests", "examples", "docs", "results", "README.md", "LICENSE"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-addopts = "-ra --strict-markers"
+addopts = "-ra --strict-markers --basetemp=.pytest-tmp"
 
 [tool.ruff]
 line-length = 96
