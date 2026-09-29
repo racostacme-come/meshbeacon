@@ -164,3 +164,9 @@ exercises, or private datasets were opened, copied, or published. No ATSA work.
   its own 1D discretization, weights, assembly, and tests.
 
 MIT licensed. Git history records actual work; no external review is implied.
+
+## Academic paper
+
+Read the [research note (PDF)](paper/paper.pdf), edit the [LaTeX source](paper/paper.tex),
+or follow the [compilation instructions](paper/README.md). The manuscript includes
+methods, measured validation, limitations, and references within five pages.
